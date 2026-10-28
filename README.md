@@ -5,4 +5,5 @@ whether one Google package-analysis worker can write a cached download record
 attributed to a different package owned by the same researcher.
 
 It contains no workflow, callback, credential, dependency, generated binary,
-or runtime side effect. The canonical `v0.0.1` tag is the comparison baseline.
+or runtime side effect. The canonical `v0.0.10` tag is an inert comparison
+baseline for an owned-module source-integrity test.
