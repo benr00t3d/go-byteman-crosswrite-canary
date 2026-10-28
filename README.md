@@ -5,6 +5,5 @@ whether one Google package-analysis worker can write a cached download record
 attributed to a different package owned by the same researcher.
 
 It contains no workflow, callback, credential, dependency, generated binary,
-or runtime side effect. The canonical `v0.0.4` tag is reserved for a clean
-first-fetch propagation test and does not contain the private altered-archive
-marker.
+or runtime side effect. The canonical `v0.0.8` tag is reserved as the clean
+target for an attributable, owner-only analysis-result roundtrip.
