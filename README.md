@@ -5,5 +5,5 @@ whether one Google package-analysis worker can write a cached download record
 attributed to a different package owned by the same researcher.
 
 It contains no workflow, callback, credential, dependency, generated binary,
-or runtime side effect. The canonical `v0.0.14` tag is an inert comparison
-baseline for an owned-module first-public-fetch cache-isolation test.
+or runtime side effect. The canonical `v0.0.15` tag is an inert comparison
+baseline for an owned-module structured-result cache-routing test.
