@@ -5,5 +5,5 @@ whether one Google package-analysis worker can write a cached download record
 attributed to a different package owned by the same researcher.
 
 It contains no workflow, callback, credential, dependency, generated binary,
-or runtime side effect. The canonical `v0.0.11` tag is an inert comparison
-baseline for an owned-module proxy-cache integrity test.
+or runtime side effect. The canonical `v0.0.12` tag is an inert comparison
+baseline for an owned-module live-worker cache-integrity test.

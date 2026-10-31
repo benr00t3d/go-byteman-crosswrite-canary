@@ -3,4 +3,4 @@
 package crosswritecanary
 
 // Baseline identifies the canonical contents published by the owner.
-const Baseline = "robert-owned proxy cross-write baseline v0.0.11"
+const Baseline = "robert-owned live-worker race baseline v0.0.12"
